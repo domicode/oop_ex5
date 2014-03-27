@@ -32,3 +32,9 @@ chris.greeting
 
 cristina = Student.new("Cristina")
 cristina.greeting
+
+
+chris.teach
+cristina.learn
+chris.learn #doesnt work because it's not a mehtod of the teacher class
+cristina.teach #doesnt work because it's not a mehtod of the student class
